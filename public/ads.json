@@ -1,39 +1,39 @@
 {
-  "smartlinkUrl": "https://www.profitableratecpmnetwork.com/twpu7mx7cs?key=a17d1c82421461a9d83bc0d02f522f7e",
-  "popunderScriptSrc": "https://pl32315461.profitableratecpmnetwork.com/92/d9/61/92d9610acc20b2331e360f864d60a01a.js",
-  "socialBarScriptSrc": "https://pl32315464.profitableratecpmnetwork.com/69/80/23/698023a34ed0f7ef9533db7f92468fd6.js",
+  "smartlinkUrl": "https://www.profitableratecpmnetwork.com/jwpxeh5u2?key=8d36648894771e422680b64aa73e1c14",
+  "popunderScriptSrc": "https://pl32319815.profitableratecpmnetwork.com/83/09/45/830945631a17eef59d215bfd099c9ab0.js",
+  "socialBarScriptSrc": "https://pl32319864.profitableratecpmnetwork.com/1c/15/e5/1c15e5ab4cedd348ea8fe3a2d19e78f6.js",
   "nativeBanner": {
-    "invokeScriptSrc": "https://pl32315462.profitableratecpmnetwork.com/7560f54e3281d9e6c6585555586d6d15/invoke.js",
-    "containerId": "container-7560f54e3281d9e6c6585555586d6d15"
+    "invokeScriptSrc": "https://pl32319862.profitableratecpmnetwork.com/1668e28e105925b1ade3ea35835c818c/invoke.js",
+    "containerId": "container-1668e28e105925b1ade3ea35835c818c"
   },
   "banners": {
     "banner728x90": {
-      "publisherKey": "8e09324cf48a6f546b8c398c9dab9db3",
+      "publisherKey": "d733edfba583cf4e20028e73075fc4ac",
       "width": 728,
       "height": 90
     },
     "banner468x60": {
-      "publisherKey": "c9cba7499a2b4c6c01654dc6be917808",
+      "publisherKey": "90864cbda48c48ef45197597f212fb7c",
       "width": 468,
       "height": 60
     },
     "banner300x250": {
-      "publisherKey": "fa9c3b8fe9b97efd85bef62b068a5f4f",
+      "publisherKey": "b8f5da038e70124dbbd97c603afe4d7c",
       "width": 300,
       "height": 250
     },
     "banner160x600": {
-      "publisherKey": "d0bd70a385f8d728aff3793875d35402",
+      "publisherKey": "f620e6537d3643eb71e3884af17257a8",
       "width": 160,
       "height": 600
     },
     "banner160x300": {
-      "publisherKey": "a54e1f69d5799caca4e4a90db3aa0aea",
+      "publisherKey": "3ba66119743e526fddb5646c29d7127e",
       "width": 160,
       "height": 300
     },
     "banner320x50": {
-      "publisherKey": "95fa3cdea7cf78b8e460fee3e07469e4",
+      "publisherKey": "8e36689e552091d18c8651794c88eba5",
       "width": 320,
       "height": 50
     }
