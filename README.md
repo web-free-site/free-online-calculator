@@ -2,7 +2,7 @@
 
 Free online calculators for math, dates, and Rwanda-focused finance. Built for Gentil M. (Kigali, Rwanda). **Based on [OmniTools](https://github.com/iib0011/omni-tools)** (MIT).
 
-- **Live:** https://free-online-calculator.gentillenoir075.workers.dev
+- **Live:** https://free-online-calculator.web-free.site
 - **Stack:** Next.js (static export), client-side only, Cloudflare Workers static assets
 - **Monetization:** [Adsterra](https://www.adsterra.com/) — paste codes in `public/ads.json`
 

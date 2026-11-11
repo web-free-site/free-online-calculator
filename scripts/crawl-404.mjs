@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-const base = process.argv[2] || "https://free-online-calculator.gentillenoir075.workers.dev";
+const base = process.argv[2] || "https://free-online-calculator.web-free.site";
 
 const slugs = [
   "en",

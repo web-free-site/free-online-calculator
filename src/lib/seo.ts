@@ -1,6 +1,6 @@
 import type { Locale } from "./i18n";
 
-const SITE = "https://free-online-calculator.gentillenoir075.workers.dev";
+const SITE = "https://free-online-calculator.web-free.site";
 
 export function siteUrl(path = ""): string {
   return `${SITE}${path}`;

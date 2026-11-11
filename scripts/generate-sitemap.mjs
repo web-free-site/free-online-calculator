@@ -2,7 +2,7 @@ import { writeFileSync } from "fs";
 
 const base =
   process.env.SITE_URL ||
-  "https://free-online-calculator.gentillenoir075.workers.dev";
+  "https://free-online-calculator.web-free.site";
 const langs = ["en", "fr"];
 const slugs = [
   "",

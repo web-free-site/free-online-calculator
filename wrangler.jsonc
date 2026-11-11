@@ -1,8 +1,16 @@
 {
   "name": "free-online-calculator",
-  "account_id": "9b2252baefadd95947f73bc833b3234f",
+  "account_id": "c26dbba499d049a1051c152c720cf4c5",
+  "main": "worker.js",
   "compatibility_date": "2025-11-11",
+  "routes": [
+  { "pattern": "free-online-calculator.web-free.site", "custom_domain": true }
+  ],
   "assets": {
-    "directory": "./out"
+    "directory": "./out",
+    "binding": "ASSETS",
+    "run_worker_first": ["/*", "!/_next/*"],
+    "html_handling": "auto-trailing-slash",
+    "not_found_handling": "none"
   }
 }

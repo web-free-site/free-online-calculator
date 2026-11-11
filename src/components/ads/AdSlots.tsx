@@ -23,8 +23,9 @@ function BannerIframe({
   );
   return (
     <div
-      className={`flex max-w-full justify-center overflow-hidden ${className ?? ""}`}
+      className={`ad-slot flex max-w-full justify-center overflow-hidden ${className ?? ""}`}
       aria-label="Advertisement"
+      data-ad-slot={slot}
     >
       <iframe
         title={`Advertisement ${slot}`}

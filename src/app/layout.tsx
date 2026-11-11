@@ -10,7 +10,7 @@ const dm = DM_Sans({
 
 export const metadata: Metadata = {
   metadataBase: new URL(
-    "https://free-online-calculator.gentillenoir075.workers.dev"
+    "https://free-online-calculator.web-free.site"
   ),
   title: {
     default: "Free Online Calculator",
