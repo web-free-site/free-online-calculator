@@ -1,0 +1,8 @@
+{
+  "name": "free-online-calculator",
+  "account_id": "9b2252baefadd95947f73bc833b3234f",
+  "compatibility_date": "2025-11-11",
+  "assets": {
+    "directory": "./out"
+  }
+}

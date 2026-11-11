@@ -1,0 +1,41 @@
+{
+  "smartlinkUrl": "https://www.profitableratecpmnetwork.com/twpu7mx7cs?key=a17d1c82421461a9d83bc0d02f522f7e",
+  "popunderScriptSrc": "https://pl32315461.profitableratecpmnetwork.com/92/d9/61/92d9610acc20b2331e360f864d60a01a.js",
+  "socialBarScriptSrc": "https://pl32315464.profitableratecpmnetwork.com/69/80/23/698023a34ed0f7ef9533db7f92468fd6.js",
+  "nativeBanner": {
+    "invokeScriptSrc": "https://pl32315462.profitableratecpmnetwork.com/7560f54e3281d9e6c6585555586d6d15/invoke.js",
+    "containerId": "container-7560f54e3281d9e6c6585555586d6d15"
+  },
+  "banners": {
+    "banner728x90": {
+      "publisherKey": "8e09324cf48a6f546b8c398c9dab9db3",
+      "width": 728,
+      "height": 90
+    },
+    "banner468x60": {
+      "publisherKey": "c9cba7499a2b4c6c01654dc6be917808",
+      "width": 468,
+      "height": 60
+    },
+    "banner300x250": {
+      "publisherKey": "fa9c3b8fe9b97efd85bef62b068a5f4f",
+      "width": 300,
+      "height": 250
+    },
+    "banner160x600": {
+      "publisherKey": "d0bd70a385f8d728aff3793875d35402",
+      "width": 160,
+      "height": 600
+    },
+    "banner160x300": {
+      "publisherKey": "a54e1f69d5799caca4e4a90db3aa0aea",
+      "width": 160,
+      "height": 300
+    },
+    "banner320x50": {
+      "publisherKey": "95fa3cdea7cf78b8e460fee3e07469e4",
+      "width": 320,
+      "height": 50
+    }
+  }
+}
