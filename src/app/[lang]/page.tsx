@@ -17,6 +17,7 @@ export async function generateMetadata({
     title: fr ? "Calculatrices gratuites en ligne" : "Free Online Calculators",
     description: t(lang as Locale).tagline,
     alternates: {
+      canonical: `https://free-online-calculator.web-free.site/${lang}/`,
       languages: { en: "/en/", fr: "/fr/" },
     },
   };

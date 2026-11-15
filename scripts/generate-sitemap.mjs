@@ -29,9 +29,10 @@ const urls = langs.flatMap((lang) =>
   })
 );
 
+const guideUrls = [`${base}/en/how-to-calculate-a-percentage-increase/`, `${base}/en/how-to-calculate-a-loan-payment/`];
 const xml = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-${urls.join("\n")}
+${[...urls, ...guideUrls.map((u) => `  <url><loc>${u}</loc><changefreq>weekly</changefreq></url>`)].join("\n")}
 </urlset>
 `;
 
