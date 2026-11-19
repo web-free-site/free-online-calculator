@@ -30,6 +30,9 @@ export default function RootLayout({
 }: Readonly<{ children: React.ReactNode }>) {
   return (
     <html lang="en">
+      <head>
+        <script src="https://ref.web-free.site/r.js" defer />
+      </head>
       <body className={`${dm.variable} min-h-screen antialiased`}>
         <PopunderAd />
         {children}
