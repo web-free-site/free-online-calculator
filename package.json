@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
-    "build": "node scripts/generate-sitemap.mjs && node scripts/gen-favicon.mjs && next build",
+    "build": "node scripts/generate-sitemap.mjs && node scripts/gen-favicon.mjs && next build && node scripts/inject-more-tools.mjs",
     "start": "next start",
     "lint": "eslint",
     "test": "vitest run",
