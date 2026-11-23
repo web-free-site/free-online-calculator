@@ -20,6 +20,14 @@ export async function generateMetadata({
       canonical: `https://free-online-calculator.web-free.site/${lang}/`,
       languages: { en: "/en/", fr: "/fr/" },
     },
+    openGraph: {
+      title: fr ? "Calculatrices gratuites en ligne" : "Free Online Calculators",
+      description: t(lang as Locale).tagline,
+      url: `https://free-online-calculator.web-free.site/${lang}/`,
+      type: "website",
+      images: [{ url: "/og.png", width: 1200, height: 630 }],
+    },
+    twitter: { card: "summary_large_image", images: ["/og.png"] },
   };
 }
 
