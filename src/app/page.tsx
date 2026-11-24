@@ -1,12 +1,18 @@
-"use client";
+import type { Metadata } from "next";
+import Link from "next/link";
 
-import { useEffect } from "react";
-import { useRouter } from "next/navigation";
+const EN_HOME = "https://free-online-calculator.web-free.site/en/";
+
+export const metadata: Metadata = {
+  alternates: { canonical: EN_HOME },
+  openGraph: { url: EN_HOME },
+  robots: { index: false, follow: true },
+};
 
 export default function Root() {
-  const router = useRouter();
-  useEffect(() => {
-    router.replace("/en/");
-  }, [router]);
-  return <p className="p-8 text-center">Redirecting…</p>;
+  return (
+    <p className="p-8 text-center">
+      <Link href="/en/">Free Online Calculators</Link>
+    </p>
+  );
 }
